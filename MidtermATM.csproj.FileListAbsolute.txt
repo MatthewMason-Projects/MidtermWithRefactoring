@@ -1,0 +1,11 @@
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.csproj.AssemblyReference.cache
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\ATMApp.Forms.LoginForm.resources
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\ATMApp.Forms.MainMenuForm.resources
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.Properties.Resources.resources
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.csproj.GenerateResource.cache
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.csproj.CoreCompileInputs.cache
+C:\Users\mattm\source\repos\MidtermATM\bin\Debug\MidtermATM.exe.config
+C:\Users\mattm\source\repos\MidtermATM\bin\Debug\MidtermATM.exe
+C:\Users\mattm\source\repos\MidtermATM\bin\Debug\MidtermATM.pdb
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.exe
+C:\Users\mattm\source\repos\MidtermATM\obj\Debug\MidtermATM.pdb
